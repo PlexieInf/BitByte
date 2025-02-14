@@ -1,0 +1,17 @@
+BitByte: (DOUBLE_PATCH)
+
+Version 1.4.2: (Windows 64 & 32 Bit)
+
+https://drive.google.com/file/d/1sBIay6I-qgYdeG92CRaFccHnumuGIF_r/view?usp=sharing
+
+
+Version 1.4.0: (HTML, No IOS Compat)
+
+
+
+
+// Update Logs
+
+
+
+-- Patched the SYS Library UI Overlapping Issue
