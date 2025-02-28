@@ -17,5 +17,6 @@
 
 Cool Movie Made in BitByte
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ufmtCA7L0ak" frameborder="0" allowfullscreen></iframe>
+[![cool vid](https://img.youtube.com/vi/ufmtCA7L0ak/0.jpg)](https://youtu.be/ufmtCA7L0ak)
+
 
