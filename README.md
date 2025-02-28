@@ -6,5 +6,7 @@
 
 ## **BitByte Gallery**
 
+
+
 # Gridded BitByte Main Viewport
 ![BitByte Main](https://i.imgur.com/wRsW0ak.png)
